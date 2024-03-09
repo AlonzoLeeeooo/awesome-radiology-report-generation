@@ -13,27 +13,36 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [Datasets](#datasets)
 - [To-Do Lists](#to-do-lists)
 
-
 <!-- omit in toc -->
-# References
+# To-Do Lists
+- Recent Papers
+  - [ ] Update ACL 2024 Papers
+  - [ ] Update CVPR 2024 Papers
+  - [ ] Update AAAI 2024 Papers
+    - [ ] Update PDFs and References
+  - [ ] Update ICLR 2024 Papers
+  - [ ] Update NeurIPS 2024 Papers
+  - Regular Maintenance of Preprint arXiv Papers and Missed Papers
+- Previous Papers
+  - Published Papers on Conferences
+    - [ ] Update ACL papers
+    - [ ] Update EMNLP papers
+    - [ ] Update CVPR papers
+    - [ ] Update ICCV papers
+    - [ ] Update ECCV papers
+    - [ ] Update MICCAI papers
+    - [ ] Update AAAI papers
+    - [ ] Update NeurIPS papers
+  - Published Papers on Journals
+    - [ ] Update TMM papers
+    - [ ] Update TMI papers
 
-The `reference.bib` file summarizes bibtex references of up-to-date image inpainting papers, widely used datasets, and toolkits.
-Based on the original references, I have made the following modifications to make their results look nice in the `LaTeX` manuscripts:
-- Refereces are normally constructed in the form of `author-etal-year-nickname`. Particularly, references of datasets and toolkits are directly constructed as `nickname`, e.g., `imagenet`.
-- In each reference, all names of conferences/journals are converted into abbreviations, e.g., `Computer Vision and Pattern Recognition -> CVPR`.
-- The `url`, `doi`, `publisher`, `organization`, `editor`, `series` in all references are removed.
-- The `pages` of all references are added if they are missing.
-- All paper names are in title case. Besides, I have added an additional `{}` to make sure that the title case would also work well in some particular templates. 
-
-If you have other demands of reference formats, you may refer to the original references of papers by searching their names in [DBLP](https://dblp.org/) or [Google Scholar](https://scholar.google.com/).
-
-[<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 # Papers
 - <span id="year-2024">**Year 2024**</span> 
   - **AAAI**
-    - Bootstrapping Large Language Models for Radiology Report Generation** [Paper] [[Code]](https://github.com/synlp/R2-LLM)
+    - Bootstrapping Large Language Models for Radiology Report Generation [Paper] [[Code]](https://github.com/synlp/R2-LLM)
   - **TMM**
     - From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[paper]](https://ieeexplore.ieee.org/document/10356722)
   - **TMI**
@@ -174,25 +183,6 @@ If you have other demands of reference formats, you may refer to the original re
 
 [<u><small><🎯Back to Top></small></u>](#contents)
 
-
-<!-- omit in toc -->
-# To-Do Lists
-- Published Papers on Conferences
-  - [ ] Update ACL papers
-  - [ ] Update EMNLP papers
-  - [ ] Update CVPR papers
-  - [ ] Update ICCV papers
-  - [ ] Update ECCV papers
-  - [ ] Update MICCAI papers
-  - [ ] Update AAAI papers
-  - [ ] Update NeurIPS papers
-- Published Papers on Journals
-  - [ ] Update TMM papers
-  - [ ] Update TMI papers
-- Regular Maintenance of Preprint arXiv Papers and Missed Papers
-
-[<u><small><🎯Back to Top></small></u>](#contents)
-
 <!-- omit in toc -->
 # Q&A
 - **Q: The conference sequence of this paper list?**
@@ -221,3 +211,18 @@ If you have other demands of reference formats, you may refer to the original re
       - TMM
       - TMI
     - arXiv
+
+<!-- omit in toc -->
+# References
+
+The `reference.bib` file summarizes bibtex references of up-to-date image inpainting papers, widely used datasets, and toolkits.
+Based on the original references, I have made the following modifications to make their results look nice in the `LaTeX` manuscripts:
+- Refereces are normally constructed in the form of `author-etal-year-nickname`. Particularly, references of datasets and toolkits are directly constructed as `nickname`, e.g., `imagenet`.
+- In each reference, all names of conferences/journals are converted into abbreviations, e.g., `Computer Vision and Pattern Recognition -> CVPR`.
+- The `url`, `doi`, `publisher`, `organization`, `editor`, `series` in all references are removed.
+- The `pages` of all references are added if they are missing.
+- All paper names are in title case. Besides, I have added an additional `{}` to make sure that the title case would also work well in some particular templates. 
+
+If you have other demands of reference formats, you may refer to the original references of papers by searching their names in [DBLP](https://dblp.org/) or [Google Scholar](https://scholar.google.com/).
+
+[<u><small><🎯Back to Top></small></u>](#contents)
