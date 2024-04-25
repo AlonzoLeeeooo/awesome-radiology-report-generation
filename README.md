@@ -3,6 +3,20 @@
 
 This GitHub repository summarizes papers and resources related to the radiology report generation (RRG) task. 
 
+You can refer to my survey paper titled ["A Systematic Review of Deep Learning-based Research on Radiology Report Generation"](https://arxiv.org/abs/2311.14199) for more details of this topic. 
+
+If you find my survey paper helpful to your research, please cite it with the following BibTeX:
+```latex
+@misc{liu2023systematic,
+      title={A Systematic Review of Deep Learning-based Research on Radiology Report Generation}, 
+      author={Chang Liu and Yuanhe Tian and Yan Song},
+      year={2023},
+      eprint={2311.14199},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
 If you have any suggestions about this repository, please feel free to [start a new issue](https://github.com/AlonzoLeeeooo/awesome-radiology-report-generation/issues/new) or [pull requests](https://github.com/AlonzoLeeeooo/awesome-radiology-report-generation/pulls).
 
 
