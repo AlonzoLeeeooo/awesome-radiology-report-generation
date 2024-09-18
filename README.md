@@ -23,40 +23,61 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # <span id="contents">Contents</span>
 - [References](#references)
+- [Survey Papers](#survey-papers)
 - [Papers](#papers)
+  - [Year 2024](#year-2024)
+  - [Year 2023](#year-2023)
+  - [Year 2022](#year-2022)
+  - [Year 2021](#year-2021)
+  - [Year 2020](#year-2020)
+  - [Year 2019](#year-2019)
+  - [Year 2018](#year-2018)
 - [Datasets](#datasets)
 - [To-Do Lists](#to-do-lists)
 
 <!-- omit in toc -->
 # To-Do Lists
 - Recent Papers
-  - [ ] Update ACL 2024 Papers
-  - [ ] Update CVPR 2024 Papers
-  - [ ] Update AAAI 2024 Papers
-    - [ ] Update PDFs and References
-  - [ ] Update ICLR 2024 Papers
-  - [ ] Update NeurIPS 2024 Papers
+  - [x] Update ACL 2024 Papers
+  - [x] Update CVPR 2024 Papers
+  - [x] Update AAAI 2024 Papers
+    - [x] Update PDFs and References
   - Regular Maintenance of Preprint arXiv Papers and Missed Papers
 - Previous Papers
   - Published Papers on Conferences
-    - [ ] Update ACL papers
-    - [ ] Update EMNLP papers
-    - [ ] Update CVPR papers
-    - [ ] Update ICCV papers
-    - [ ] Update ECCV papers
-    - [ ] Update MICCAI papers
-    - [ ] Update AAAI papers
-    - [ ] Update NeurIPS papers
+    - [x] Update ACL papers
+    - [x] Update EMNLP papers
+    - [x] Update CVPR papers
+    - [x] Update ICCV papers
+    - [x] Update ECCV papers
+    - [x] Update MICCAI papers
+    - [x] Update AAAI papers
+    - [x] Update NeurIPS papers
   - Published Papers on Journals
     - [ ] Update TMM papers
     - [ ] Update TMI papers
 
+[<u><small><🎯Back to Top></small></u>](#contents)
+
+<!-- omit in toc -->
+# Survey Papers
+- [NAACL 2019] A Survey on Biomedical Image Captioning [[Paper]](https://aclanthology.org/W19-1803.pdf)
+- [Artif. Intell. Medicine 2020] Deep Learning in Generating Radiology Reports: A Survey [[Paper]](https://www.sciencedirect.com/science/article/pii/S0933365719302635)
+- [Knowledge and Information Systems 2022] Diagnostic Captioning: A Survey [[Paper]](https://arxiv.org/pdf/2101.07299)
+- [arXiv 2023] A Systematic Review on Deep Learning-based Research on Radiology Report Generation [[Paper]](https://arxiv.org/pdf/2311.14199)
+
+[<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 # Papers
 - <span id="year-2024">**Year 2024**</span> 
+  - **ACL**
+    - Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation [[Paper]](https://arxiv.org/pdf/2312.08078) [[Code]](https://github.com/CUHK-AIM-Group/AdaMatch-Cyclic)
+  - **CVPR**
+    - Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.pdf) [[Code]](https://github.com/hnjzbss/EKAGen) [[Dataset]](https://huggingface.co/ShenshenBu/EKAGen)
   - **AAAI**
-    - Bootstrapping Large Language Models for Radiology Report Generation [Paper] [[Code]](https://github.com/synlp/R2-LLM)
+    - Bootstrapping Large Language Models for Radiology Report Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29826) [[Code]](https://github.com/synlp/R2-LLM)
+    - ***PromptMRG:*** Diagnosis-Driven Prompts for Medical Report Generation [[Paper]](https://arxiv.org/pdf/2308.12604) [[Code]](https://github.com/jhb86253817/PromptMRG)
   - **TMM**
     - From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[paper]](https://ieeexplore.ieee.org/document/10356722)
   - **TMI**
@@ -225,6 +246,8 @@ If you have any suggestions about this repository, please feel free to [start a 
       - TMM
       - TMI
     - arXiv
+
+[<u><small><🎯Back to Top></small></u>](#contents)
 
 <!-- omit in toc -->
 # References
