@@ -75,6 +75,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation [[Paper]](https://arxiv.org/pdf/2312.08078) [[Code]](https://github.com/CUHK-AIM-Group/AdaMatch-Cyclic)
   - **CVPR**
     - Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.pdf) [[Code]](https://github.com/hnjzbss/EKAGen) [[Dataset]](https://huggingface.co/ShenshenBu/EKAGen)
+  - **ECCV**
+    - ***HERGen:*** Elevating Radiology Report Generation with Longitudinal Data [[Paper]](https://arxiv.org/pdf/2407.15158) [[Code]](https://github.com/fuying-wang/HERGen)
   - **AAAI**
     - Bootstrapping Large Language Models for Radiology Report Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29826) [[Code]](https://github.com/synlp/R2-LLM)
     - ***PromptMRG:*** Diagnosis-Driven Prompts for Medical Report Generation [[Paper]](https://arxiv.org/pdf/2308.12604) [[Code]](https://github.com/jhb86253817/PromptMRG)
@@ -101,6 +103,7 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Unify, Align and Refine: Multi-Level Semantic Alignment for Radiology Report Generation [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Unify_Align_and_Refine_Multi-Level_Semantic_Alignment_for_Radiology_Report_ICCV_2023_paper.pdf)
   - **MICCAI**
     - ***SGT:*** Scene Graph-Guided Transformer for Surgical Report Generation** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_48) [[Code]](https://github.com/ccccchenllll/SGT_master)
+    - Utilizing Longitudinal Chest X-Rays and Reports to Pre-Fill Radiology Reports [[Paper]](https://arxiv.org/pdf/2306.08749) [[Code]](https://github.com/CelestialShine/Longitudinal-Chest-X-Ray)
   - **ICASSP**
     - ***MvCo-DoT:*** Multi-View Contrastive Domain Transfer Network for Medical Report Generation [[Paper]](https://arxiv.org/pdf/2304.07465.pdf)
   - **ICIP**
