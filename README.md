@@ -87,6 +87,17 @@ If you have any suggestions about this repository, please feel free to [start a 
     - From Observation to Concept: A Flexible Multi-view Paradigm for Medical Report Generation [[paper]](https://ieeexplore.ieee.org/document/10356722)
   - **TMI**
     - Complex Organ Mask Guided Radiology Report Generation [[Paper]](https://arxiv.org/pdf/2311.02329.pdf) [[Code]](https://github.com/GaryGuTC/COMG_model)
+    - Multi-Grained Radiology Report Generation With Sentence-Level Image-Language Contrastive Learning [[Paper]](https://ieeexplore.ieee.org/document/10458706/)
+    - Attribute Prototype-guided Iterative Scene Graph for Explainable Radiology Report Generation [[Paper]](https://ieeexplore.ieee.org/document/10587279) [[Code]](https://github.com/giantke/AP-ISG)
+    - An Organ-aware Diagnosis Framework for Radiology Report Generation [[Paper]](https://ieeexplore.ieee.org/document/10579857)
+  - **arXiv**
+    - Designing a Robust Radiology Report Generation System [[Paper]](https://arxiv.org/pdf/2411.01153)
+    - ***R2Gen-Mamba:*** A Selective State Space Model for Radiology Report Generation [[Paper]](https://www.arxiv.org/pdf/2410.18135) [[Code]](https://github.com/YonghengSun1997/R2Gen-Mamba)
+    - Image-aware Evaluation of Generated Medical Reports [[Paper]](https://arxiv.org/pdf/2410.17357)
+    - Resource-Efficient Medical Report Generation using Large Language Models [[Paper]](https://arxiv.org/pdf/2410.17357)
+    - An X-Ray Is Worth 15 Features: Sparse Autoencoders for Interpretable Radiology Report Generation [[Paper]](https://arxiv.org/pdf/2410.03334)
+    - ***KARGEN:*** Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models [[Paper]](https://arxiv.org/pdf/2409.05370)
+    - Medical Report Generation Is A Multi-label Classification Problem [[Paper]]()
 - <span id="year-2023">**Year 2023**</span>
   - **ACL**  
     - ***ORGAN:*** Observation-Guided Radiology Report Generation via Tree Reasoning [[Paper]](https://aclanthology.org/2023.acl-long.451/) [[Code]](https://github.com/wjhou/ORGan)
