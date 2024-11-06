@@ -38,6 +38,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # To-Do Lists
 - Recent Papers
+  - [x] Update ECCV 2024 Papers
   - [x] Update ACL 2024 Papers
   - [x] Update CVPR 2024 Papers
   - [x] Update AAAI 2024 Papers
@@ -77,6 +78,8 @@ If you have any suggestions about this repository, please feel free to [start a 
     - Instance-level Expert Knowledge and Aggregate Discriminative Attention for Radiology Report Generation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bu_Instance-level_Expert_Knowledge_and_Aggregate_Discriminative_Attention_for_Radiology_Report_CVPR_2024_paper.pdf) [[Code]](https://github.com/hnjzbss/EKAGen) [[Dataset]](https://huggingface.co/ShenshenBu/EKAGen)
   - **ECCV**
     - ***HERGen:*** Elevating Radiology Report Generation with Longitudinal Data [[Paper]](https://arxiv.org/pdf/2407.15158) [[Code]](https://github.com/fuying-wang/HERGen)
+    - ***CoFE:*** Learning with Counterfactual Explanations for Radiology Report Generation [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05958.pdf) [[Code]](https://github.com/mlii0117/CoFE)
+    - ***MedRAT:*** Unpaired Medical Report Generation via Auxiliary Tasks [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08947.pdf) [[Code]](https://github.com/eladhi/MedRAT)
   - **AAAI**
     - Bootstrapping Large Language Models for Radiology Report Generation [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29826) [[Code]](https://github.com/synlp/R2-LLM)
     - ***PromptMRG:*** Diagnosis-Driven Prompts for Medical Report Generation [[Paper]](https://arxiv.org/pdf/2308.12604) [[Code]](https://github.com/jhb86253817/PromptMRG)
