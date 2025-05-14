@@ -26,6 +26,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 - [References](#references)
 - [Survey Papers](#survey-papers)
 - [Papers](#papers)
+  - [Year 2025](#year-2025)
   - [Year 2024](#year-2024)
   - [Year 2023](#year-2023)
   - [Year 2022](#year-2022)
@@ -39,6 +40,10 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # To-Do Lists
 - Recent Papers
+  - [x] Update AAAI 2025 Papers
+  - [ ] Update ACL 2025 Papers
+  - [ ] Update EMNLP 2025 Papers
+  - [x] Update CVPR 2025 Papers
   - [x] Update ECCV 2024 Papers
   - [x] Update ACL 2024 Papers
   - [x] Update CVPR 2024 Papers
@@ -72,6 +77,13 @@ If you have any suggestions about this repository, please feel free to [start a 
 
 <!-- omit in toc -->
 # Papers
+- <span id="year-2025">**Year 2025**</span> 
+  - **CVPR**
+    - ***DART:*** Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation [[Paper]](https://arxiv.org/pdf/2504.11786)
+  - **AAAI**
+    - ***HC-LLM:*** Historical-Constrained Large Language Models for Radiology Report Generation [[Paper]](https://arxiv.org/pdf/2504.11786) [[Code]](https://arxiv.org/pdf/2412.11070)
+    - **LLM-RG4:** Flexible and Factual Radiology Report Generation Across Diverse Input Contexts [[Paper]](https://arxiv.org/pdf/2412.12001) [[Code]](https://github.com/zh-Wang-Med/LLM-RG4)
+    - Radiology Report Generation via Multi-objective Preference Optimization [[Paper]](https://arxiv.org/pdf/2412.08901)
 - <span id="year-2024">**Year 2024**</span> 
   - **ACL**
     - Fine-Grained Image-Text Alignment in Medical Imaging Enables Explainable Cyclic Image-Report Generation [[Paper]](https://arxiv.org/pdf/2312.08078) [[Code]](https://github.com/CUHK-AIM-Group/AdaMatch-Cyclic)
