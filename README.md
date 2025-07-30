@@ -41,7 +41,7 @@ If you have any suggestions about this repository, please feel free to [start a 
 # To-Do Lists
 - Recent Papers
   - [x] Update AAAI 2025 Papers
-  - [ ] Update ACL 2025 Papers
+  - [x] Update ACL 2025 Papers
   - [ ] Update EMNLP 2025 Papers
   - [x] Update CVPR 2025 Papers
   - [x] Update ECCV 2024 Papers
@@ -78,6 +78,11 @@ If you have any suggestions about this repository, please feel free to [start a 
 <!-- omit in toc -->
 # Papers
 - <span id="year-2025">**Year 2025**</span> 
+  - **ACL**
+    - Automated Structured Radiology Report Generation [[Paper]](https://aclanthology.org/2025.acl-long.1301/) [[Code]](https://github.com/als138/AutomaticRadiologyReportGeneration)
+    - ***RADAR:*** Enhancing Radiology Report Generation with Supplementary Knowledge Injection [[Paper]](https://aclanthology.org/2025.acl-long.1279/) [[Code]](https://github.com/wjhou/Radar)
+    - ***Argus:*** Benchmarking and Enhancing Vision-Language Models for 3D Radiology Report Generation [[Paper]](https://aclanthology.org/2025.findings-acl.845/)
+    - Online Iterative Self-Alignment for Radiology Report Generation [[Paper]](https://aclanthology.org/2025.acl-long.1348/)
   - **CVPR**
     - ***DART:*** Disease-aware Image-Text Alignment and Self-correcting Re-alignment for Trustworthy Radiology Report Generation [[Paper]](https://arxiv.org/pdf/2504.11786)
   - **AAAI**
